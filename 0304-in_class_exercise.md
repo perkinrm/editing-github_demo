@@ -21,7 +21,7 @@ March 4th, 2015
 ## Dangling Modifiers:
 
 1. Opening the window to let out a huge bumblebee, the car accidentally swerved into an oncoming car.
-2. After completing seminary training, women's access to the pulpit has often been denied.
+2. After women completed seminary training, their access to the pulpit has often been denied.
 3. After Joe decided to join the navy, the recruiter enthusiastically shook his hand.
 4. When I entered the doctor's office, a skeleton caught my attention.
 5. To please the children, some fireworks were set off a day early.
